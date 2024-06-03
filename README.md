@@ -3,6 +3,11 @@
 
 Welcome to the Rock Paper Scissors game! This is a simple implementation of the classic game using JavaScript, CSS, and HTML.
 
+[Click the link to play the game]( https://ghalibfaruqe101.github.io/Rock-Paper-Scissor-using-JS/)
+ 
+
+
+
 Rock Paper Scissors
 
 ![ss](https://github.com/GhalibFaruqe101/Rock-Paper-Scissor-using-JS/assets/116834406/eaf25643-a09b-4533-82ed-065a6e21ca14)
